@@ -1,4 +1,4 @@
-# tech-careers-1.0-pair-programming
+# Tech Careers 1.0 Pair Programming Exercizes
 
 Problems picked from here - https://adriann.github.io/programming_problems.html
 
