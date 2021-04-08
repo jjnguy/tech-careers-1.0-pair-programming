@@ -24,7 +24,7 @@ Example: The list `["Hello", "World", "in", "a", "frame"]` gets printed as:
 *********
 ```
 
-Input could either be hard-coded, or user supplied via a file of command line, etc.
+Thoughts: Input could either be hard-coded, or user supplied via a file of command line, etc. To add difficulty to the problem, you could ask the user if they'd like their words let aligned or right aligned. (Center aligned for even more difficulty.)
 
 ## Hard
 
