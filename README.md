@@ -2,8 +2,6 @@
 
 Problems picked from here - https://adriann.github.io/programming_problems.html
 
-Notes: Start easier.
-Add choose your own adventure.
 
 ## Beginner
 
@@ -36,3 +34,10 @@ Thoughts: Input could either be hard-coded, or user supplied via a file of comma
 Example: The word `racecar` is a palindrome - so the longest palindromatic substring would be `racecar`. The word `careers` has `reer` in it as its longest palindromatic substring.
 
 Thoughts: This might be a fun algorithm to use recursion to solve.
+
+# Notes
+
+Notes: Start easier.
+
+Choose your own adventure. (Work in progress.)
+
