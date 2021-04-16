@@ -4,9 +4,9 @@ Problems picked from here - https://adriann.github.io/programming_problems.html
 
 ## Beginner
 
-> Write a program that asks the user for a number n and prints the sum of the numbers 1 to n.
+> Write a program that asks the user for a number `n` and prints the sum of the numbers `1` to `n`.
 
-Example: User provides 6. The program would calculate the sum - `1 + 2 + 3 + 4 + 5 + 6 = 21`
+Example: User provides `6`. The program would calculate the sum - `1 + 2 + 3 + 4 + 5 + 6 = 21`
 
 Thoughts: Start with a hard-coded number and get the addition working. From there move to getting user input.
 
