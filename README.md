@@ -2,12 +2,13 @@
 
 Problems picked from here - https://adriann.github.io/programming_problems.html
 
-
 ## Beginner
 
 > Write a program that asks the user for a number n and prints the sum of the numbers 1 to n.
 
 Example: User provides 6. The program would calculate the sum - `1 + 2 + 3 + 4 + 5 + 6 = 21`
+
+Thoughts: Start with a hard-coded number and get the addition working. From there move to getting user input.
 
 ## Intermediate
 
@@ -37,7 +38,6 @@ Thoughts: This might be a fun algorithm to use recursion to solve.
 
 # Notes
 
-Notes: Start easier.
+It might be good to start with an easier problem that you have the best chance of completing. From there you can either iterate on your solution or move on to a harder problem.
 
-Choose your own adventure. (Work in progress.)
-
+Feel free to be creative with the problems. They are meant to be a starting point for the exercise. Adjust the criteria as you see fit. Add requirements, remove some. Change them. It's up to you.
