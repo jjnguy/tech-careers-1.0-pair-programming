@@ -12,7 +12,7 @@ Thoughts: Start with a hard-coded number and get the addition working. From ther
 
 ## Intermediate
 
-> Write a function that takes a list of strings an prints them, one per line, in a rectangular frame. 
+> Write a function that takes a list of strings and prints them, one per line, in a rectangular frame. 
 
 Example: The list `["Hello", "World", "in", "a", "frame"]` gets printed as:
 
